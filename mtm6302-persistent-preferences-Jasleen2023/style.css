@@ -1,0 +1,122 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header {
+    background-color: #070707;
+    color: #fdfafa;
+    padding: 20px;
+    text-align: center;
+}
+
+footer {
+    background-color: #080808;
+    color: #faf5f5;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+
+.container {
+    max-width: 900px;
+    margin: 10 auto;
+    padding: 50px;
+}
+
+#preferences-panel {
+    margin-top: 50px;
+}
+
+.theme1 {
+    background-color: #faf60c;
+    color: #0a0a0a;
+}
+
+.theme2 {
+    background-color: #f30909e8;
+    color: #8ce5a2;
+}
+
+.theme3 {
+    background-color: #ebad49;
+    color: #0a0a0a;
+}
+.theme4 {
+    background-color: #f7f30a;
+    color: #e96e7e;
+}
+.theme5 {
+    background-color: #252b07b2;
+    color: #e0dd09;
+}
+
+.theme6 {
+    background-color: #5a5855;
+    color: #faf7f7;
+}
+
+
+.theme7 {
+    background-color: #fd1b1b;
+    color: #0a0a0a;
+}
+.theme8 {
+    background-color: #14eeee;
+    color: #f77c7c;
+}
+.theme9 {
+    background-color: #f55308;
+    color: #c2da59;
+}
+
+.theme10 {
+    background-color: #0c0c0c;
+    color: #466c6d;
+}
+
+.style1 ul {
+    list-style-type: disc;
+}
+
+.style2 ul {
+    list-style-type: circle;
+}
+
+.style3 ul {
+    list-style-type: square;
+}
+
+.style4 ul {
+    list-style-type: decimal;
+}
+
+.style5 ul {
+    list-style-type: lower-roman;
+}
+
+.style6 ul {
+    list-style-type: upper-roman;
+}
+
+.style7 ul {
+    list-style-type: lower-alpha;
+}
+
+.style8 ul {
+    list-style-type: upper-alpha;
+}
+
+.style9 ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+
+
+.style10 ul {
+    list-style-type: none;
+    padding-left: 0;
+}
